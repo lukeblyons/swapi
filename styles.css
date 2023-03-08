@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-size: 120px;
+}
+
+#residentButton {
+    height: 100px;
+    width: 300px;
+    border-radius: 50px;
+    border-width: 2px;
+    background-color: aqua;
+    color: white;
+    border-color: black;
+    font-size: 20px;
+
+}
